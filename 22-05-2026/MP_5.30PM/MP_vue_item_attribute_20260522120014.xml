@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<skus>
+  <sku>
+    <item_no>8051681965777SA</item_no>
+    <attributes>
+      <attribute>
+        <attribute_name>Color</attribute_name>
+        <attribute_value>BROWN</attribute_value>
+      </attribute>
+      <attribute>
+        <attribute_name>Primary_Parent_Color</attribute_name>
+        <attribute_value>Brown</attribute_value>
+      </attribute>
+    </attributes>
+  </sku>
+</skus>
