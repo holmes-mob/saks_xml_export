@@ -1,0 +1,68 @@
+<?xml version="1.0" ?>
+<skus>
+  <sku>
+    <item_no>8053819508214SA</item_no>
+    <attributes>
+      <attribute>
+        <attribute_name>Color</attribute_name>
+        <attribute_value>NAVY BLUE</attribute_value>
+      </attribute>
+      <attribute>
+        <attribute_name>Primary_Parent_Color</attribute_name>
+        <attribute_value>Blue</attribute_value>
+      </attribute>
+    </attributes>
+  </sku>
+  <sku>
+    <item_no>8053819508221SA</item_no>
+    <attributes>
+      <attribute>
+        <attribute_name>Color</attribute_name>
+        <attribute_value>NAVY BLUE</attribute_value>
+      </attribute>
+      <attribute>
+        <attribute_name>Primary_Parent_Color</attribute_name>
+        <attribute_value>Blue</attribute_value>
+      </attribute>
+    </attributes>
+  </sku>
+  <sku>
+    <item_no>8053819508191SA</item_no>
+    <attributes>
+      <attribute>
+        <attribute_name>Color</attribute_name>
+        <attribute_value>NAVY BLUE</attribute_value>
+      </attribute>
+      <attribute>
+        <attribute_name>Primary_Parent_Color</attribute_name>
+        <attribute_value>Blue</attribute_value>
+      </attribute>
+    </attributes>
+  </sku>
+  <sku>
+    <item_no>8053819508207SA</item_no>
+    <attributes>
+      <attribute>
+        <attribute_name>Color</attribute_name>
+        <attribute_value>NAVY BLUE</attribute_value>
+      </attribute>
+      <attribute>
+        <attribute_name>Primary_Parent_Color</attribute_name>
+        <attribute_value>Blue</attribute_value>
+      </attribute>
+    </attributes>
+  </sku>
+  <sku>
+    <item_no>8053819620350SA</item_no>
+    <attributes>
+      <attribute>
+        <attribute_name>Color</attribute_name>
+        <attribute_value>GRAPE RED</attribute_value>
+      </attribute>
+      <attribute>
+        <attribute_name>Primary_Parent_Color</attribute_name>
+        <attribute_value>Purple</attribute_value>
+      </attribute>
+    </attributes>
+  </sku>
+</skus>
