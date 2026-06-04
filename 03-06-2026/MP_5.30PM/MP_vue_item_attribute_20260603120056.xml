@@ -1,0 +1,107 @@
+<?xml version="1.0" ?>
+<skus>
+  <sku>
+    <item_no>0197801222905SA</item_no>
+    <attributes>
+      <attribute>
+        <attribute_name>Color</attribute_name>
+        <attribute_value>COGNAC GINGHAM</attribute_value>
+      </attribute>
+      <attribute>
+        <attribute_name>Primary_Parent_Color</attribute_name>
+        <attribute_value>Brown</attribute_value>
+      </attribute>
+    </attributes>
+  </sku>
+  <sku>
+    <item_no>0197801222912SA</item_no>
+    <attributes>
+      <attribute>
+        <attribute_name>Color</attribute_name>
+        <attribute_value>COGNAC GINGHAM</attribute_value>
+      </attribute>
+      <attribute>
+        <attribute_name>Primary_Parent_Color</attribute_name>
+        <attribute_value>Brown</attribute_value>
+      </attribute>
+    </attributes>
+  </sku>
+  <sku>
+    <item_no>0197801222882SA</item_no>
+    <attributes>
+      <attribute>
+        <attribute_name>Color</attribute_name>
+        <attribute_value>COGNAC GINGHAM</attribute_value>
+      </attribute>
+      <attribute>
+        <attribute_name>Primary_Parent_Color</attribute_name>
+        <attribute_value>Brown</attribute_value>
+      </attribute>
+    </attributes>
+  </sku>
+  <sku>
+    <item_no>0197801222851SA</item_no>
+    <attributes>
+      <attribute>
+        <attribute_name>Color</attribute_name>
+        <attribute_value>COGNAC GINGHAM</attribute_value>
+      </attribute>
+      <attribute>
+        <attribute_name>Primary_Parent_Color</attribute_name>
+        <attribute_value>Brown</attribute_value>
+      </attribute>
+    </attributes>
+  </sku>
+  <sku>
+    <item_no>0197801222899SA</item_no>
+    <attributes>
+      <attribute>
+        <attribute_name>Color</attribute_name>
+        <attribute_value>COGNAC GINGHAM</attribute_value>
+      </attribute>
+      <attribute>
+        <attribute_name>Primary_Parent_Color</attribute_name>
+        <attribute_value>Brown</attribute_value>
+      </attribute>
+    </attributes>
+  </sku>
+  <sku>
+    <item_no>0197801222929SA</item_no>
+    <attributes>
+      <attribute>
+        <attribute_name>Color</attribute_name>
+        <attribute_value>COGNAC GINGHAM</attribute_value>
+      </attribute>
+      <attribute>
+        <attribute_name>Primary_Parent_Color</attribute_name>
+        <attribute_value>Brown</attribute_value>
+      </attribute>
+    </attributes>
+  </sku>
+  <sku>
+    <item_no>0197801222868SA</item_no>
+    <attributes>
+      <attribute>
+        <attribute_name>Color</attribute_name>
+        <attribute_value>COGNAC GINGHAM</attribute_value>
+      </attribute>
+      <attribute>
+        <attribute_name>Primary_Parent_Color</attribute_name>
+        <attribute_value>Brown</attribute_value>
+      </attribute>
+    </attributes>
+  </sku>
+  <sku>
+    <item_no>0197801222875SA</item_no>
+    <attributes>
+      <attribute>
+        <attribute_name>Color</attribute_name>
+        <attribute_value>COGNAC GINGHAM</attribute_value>
+      </attribute>
+      <attribute>
+        <attribute_name>Primary_Parent_Color</attribute_name>
+        <attribute_value>Brown</attribute_value>
+      </attribute>
+    </attributes>
+  </sku>
+</skus>
