@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<skus>
+  <sku>
+    <item_no>8056768347453SA</item_no>
+    <attributes>
+      <attribute>
+        <attribute_name>Color</attribute_name>
+        <attribute_value>BURGUNDY</attribute_value>
+      </attribute>
+      <attribute>
+        <attribute_name>Primary_Parent_Color</attribute_name>
+        <attribute_value>Red</attribute_value>
+      </attribute>
+    </attributes>
+  </sku>
+</skus>
