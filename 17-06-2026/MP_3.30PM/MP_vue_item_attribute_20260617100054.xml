@@ -1,0 +1,94 @@
+<?xml version="1.0" ?>
+<skus>
+  <sku>
+    <item_no>8053819162911SA</item_no>
+    <attributes>
+      <attribute>
+        <attribute_name>Color</attribute_name>
+        <attribute_value>WHITE IVORY</attribute_value>
+      </attribute>
+      <attribute>
+        <attribute_name>Primary_Parent_Color</attribute_name>
+        <attribute_value>Beige</attribute_value>
+      </attribute>
+    </attributes>
+  </sku>
+  <sku>
+    <item_no>8053819162928SA</item_no>
+    <attributes>
+      <attribute>
+        <attribute_name>Color</attribute_name>
+        <attribute_value>WHITE IVORY</attribute_value>
+      </attribute>
+      <attribute>
+        <attribute_name>Primary_Parent_Color</attribute_name>
+        <attribute_value>Beige</attribute_value>
+      </attribute>
+    </attributes>
+  </sku>
+  <sku>
+    <item_no>8053819162904SA</item_no>
+    <attributes>
+      <attribute>
+        <attribute_name>Color</attribute_name>
+        <attribute_value>WHITE IVORY</attribute_value>
+      </attribute>
+      <attribute>
+        <attribute_name>Primary_Parent_Color</attribute_name>
+        <attribute_value>Beige</attribute_value>
+      </attribute>
+    </attributes>
+  </sku>
+  <sku>
+    <item_no>8053819162867SA</item_no>
+    <attributes>
+      <attribute>
+        <attribute_name>Color</attribute_name>
+        <attribute_value>WHITE IVORY</attribute_value>
+      </attribute>
+      <attribute>
+        <attribute_name>Primary_Parent_Color</attribute_name>
+        <attribute_value>Beige</attribute_value>
+      </attribute>
+    </attributes>
+  </sku>
+  <sku>
+    <item_no>8053819162898SA</item_no>
+    <attributes>
+      <attribute>
+        <attribute_name>Color</attribute_name>
+        <attribute_value>WHITE IVORY</attribute_value>
+      </attribute>
+      <attribute>
+        <attribute_name>Primary_Parent_Color</attribute_name>
+        <attribute_value>Beige</attribute_value>
+      </attribute>
+    </attributes>
+  </sku>
+  <sku>
+    <item_no>8053819162881SA</item_no>
+    <attributes>
+      <attribute>
+        <attribute_name>Color</attribute_name>
+        <attribute_value>WHITE IVORY</attribute_value>
+      </attribute>
+      <attribute>
+        <attribute_name>Primary_Parent_Color</attribute_name>
+        <attribute_value>Beige</attribute_value>
+      </attribute>
+    </attributes>
+  </sku>
+  <sku>
+    <item_no>8053819162874SA</item_no>
+    <attributes>
+      <attribute>
+        <attribute_name>Color</attribute_name>
+        <attribute_value>WHITE IVORY</attribute_value>
+      </attribute>
+      <attribute>
+        <attribute_name>Primary_Parent_Color</attribute_name>
+        <attribute_value>Beige</attribute_value>
+      </attribute>
+    </attributes>
+  </sku>
+</skus>
